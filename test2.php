@@ -35,5 +35,3 @@ foreach ($array as $item):
 endforeach;
 
 var_dump($result_two);
-
-?>
